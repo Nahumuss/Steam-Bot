@@ -1,0 +1,37 @@
+{
+  "username": "",
+  "password": "",
+  "newHeyMessage": "Hey There! Please write what you have and what for, Then wait for a response from me.\n Example: 'I have Toon for 200 Credits.'",
+  "oldHeyMessages": [
+    "Hello, How may I help you this time?",
+    "Hello again, How can I help you?"
+  ],
+  "triggerByeMessages": [
+    "bye"
+  ],
+  "byeMessages": [
+    "See ya & have a good one!\n +Rep me on profile if you would like to.",
+    "Have a nice day!\n +Rep me on my profile if you would like to."
+  ],
+  "friendReqApearing": "A friend request appeared, from: ",
+  "triggerBlockRandomTraders": [
+    "random trade"
+  ],
+  "noRandomTradesMessage": "I don't do random trades sorry...",
+  "displayCustomGame": true,
+  "botCustomGame": "Rocket League Trading",
+  "tradeLink": "https://rocket-league.com/trades/Slimez",
+  "triggerpRricesLink": [
+    "prices",
+    "prices:"
+  ],
+  "pricesLink": "https://rl.insider.gg/pc",
+  "triggerIdiotMessage": [
+    "go trade?",
+    "for trade",
+    "rocket league trade",
+    "rl trade",
+    "i want to trade"
+  ],
+  "idiotMessage": "Well and what's the trade?"
+}
